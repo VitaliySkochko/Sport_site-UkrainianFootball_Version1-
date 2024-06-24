@@ -1,0 +1,8 @@
+
+.App {
+  text-align: center;
+  background-color: yellow; /* Змінено фоновий колір на жовтий */
+  z-index: 1; /* Встановлення z-index */
+}
+
+
